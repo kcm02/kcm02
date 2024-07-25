@@ -30,7 +30,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📂 Projects
+## 📂 Projects
 
 ### 👤 [JWT_OAuth_Login](https://github.com/kcm02/JWT_OAuth_Login)
 [Spring Security + OAuth + JWT + Redis 등을 활용해 다양한 사용자 관련 기능을 개발한 프로젝트입니다.]
@@ -41,13 +41,6 @@
 [중고거래 시 자유적금 계좌를 판별하기 위한 프로젝트입니다.]
 
 `Java` `Thymeleaf` `Fly.IO`
-
-### 📫 Contact Me
-
-- Email: [yourname@example.com](mailto:yourname@example.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-```
 
 ## 📫 Contact Me
 
