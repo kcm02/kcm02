@@ -45,11 +45,14 @@
 
 ### 👤 [JWT_OAuth_Login](https://github.com/kcm02/JWT_OAuth_Login)
 [Spring Security + OAuth + JWT + Redis 등을 활용해 다양한 사용자 관련 기능을 개발한 프로젝트입니다.]
+> _프로젝트의 개요와 기술 스택 선택의 이유, 코드의 흐름 등 자세한 내용은 [로그인 & 회원가입 프로젝트](https://velog.io/@chanmi125/series/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%95%EB%A6%AC) 시리즈에 기재해 두었습니다._
 
 `Spring-Boot` `Spring-Security` `JWT` `OAuth2` `Jasypt` `Javamailsender` `Redis` `MySql`
 
 ### 🏦 [Safe Account Checker](https://github.com/kcm02/safe-account-checker)
 [중고거래 시 자유적금 계좌를 판별하기 위한 프로젝트입니다.]
+
+> _프로젝트의 과정과 후기에 대해서는 [[Toy Project] 자유적금 계좌 판별 사이트 배포 및 개발 후기 ✅](https://velog.io/@chanmi125/Project-자유적금-계좌-판별-Safe-Account-Checker-사이트-배포-및-개발-후기)에 기재해 두었습니다._
 
 `Java` `Thymeleaf` `Fly.IO`
 
