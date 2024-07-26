@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=GitHub&fontSize=35&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=README&fontSize=35&fontAlignY=35)
 
 ## 🛠️ Teck Stack
 
