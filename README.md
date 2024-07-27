@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Github&fontSize=35&fontAlignY=35)
 
-## 🛠️ Teck Stack
+## 🛠️ Tech Stack
 
 #### **`IDEs/Editors`**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -40,14 +40,13 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
 ## 📂 Personal Projects
 
 ### 👤 [JWT_OAuth_Login](https://github.com/kcm02/JWT_OAuth_Login)
 [Spring Security, OAuth, JWT, Redis 등을 활용하여 다양한 사용자 관련 기능을 구현한 프로젝트입니다. 이 프로젝트는 **JWT를 통한 인증과 Redis를 통한 토큰 관리, OAuth2를 통한 소셜 로그인 등을 포함**합니다.]
 > _프로젝트의 개요와 기술 스택 선택의 이유, 코드의 흐름 등 자세한 내용은 [로그인 & 회원가입 프로젝트](https://velog.io/@chanmi125/series/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%95%EB%A6%AC) 시리즈에 기재해 두었습니다._
 
-- **기술 스택**: `Spring-Boot` `Spring-Security` `JWT` `OAuth2` `Jasypt` `Javamailsender` `Redis` `MySql`
+- **기술 스택**: `Spring-Boot`, `Spring-Security`, `JWT`, `OAuth2`, `Jasypt`, `Javamailsender`, `Redis`, `MySQL`
 - **기능**: 
   - 사용자 회원 가입
   - 로그인/로그아웃
@@ -60,18 +59,17 @@
 
 > _프로젝트의 과정과 후기에 대해서는 [[Toy Project] 자유적금 계좌 판별 사이트 배포 및 개발 후기 ✅](https://velog.io/@chanmi125/Project-자유적금-계좌-판별-Safe-Account-Checker-사이트-배포-및-개발-후기)에 기재해 두었습니다._
 
-- **기술 스택**: `Java` `Thymeleaf` `Fly.IO`
+- **기술 스택**: `Java`, `Thymeleaf`, `Fly.IO`
 - **기능**: 
   - 계좌 번호 입력 및 판별
 - **사이트 링크**: [https://safe-account.fly.dev/](https://safe-account.fly.dev/)
-
 
 ## 📂 Team Projects
 
 ### 🎤 [K-POP Goods & Event](https://github.com/Kpop-Goods/Kg_BE)
 [K-POP 산업의 개인 제작 굿즈와 이벤트 정보를 한눈에 모아보고 검색할 수 있는 통합 플랫폼을 개발했습니다. 팬들이 손쉽게 원하는 정보를 찾고, 공유하며 즐길 수 있는 공간을 제공합니다.]
 
-> _프로젝트에 대한 전체적인 설명은 [K-POP Goods BE Repository](https://github.com/Kpop-Goods/Kg_BE)에 정리해두었습니다. 아래의 **기여한 부분**에서는 제가 맡은 기술 스택과 기능만 설명하겠습니다._
+> _프로젝트에 대한 전체적인 설명은 [K-POP Goods BE Repository](https://github.com/Kpop-Goods/Kg_BE)에서 확인할 수 있습니다. 아래의 **기여한 부분**에서는 제가 맡은 기술 스택과 기능만 설명하겠습니다._
 
 #### 기여한 부분
 - **기술 스택**: `AWS`, `EC2`, `Swagger`, `Spring Security`, `JWT`, `MySQL`, `Redis`
@@ -81,7 +79,6 @@
   - **이미지 업로드**: `AWS EC2`를 활용한 이미지의 다중 업로드 기능 개발
   - **회원 기능**: 사용자 로그인, 회원가입 등의 회원 관련 기능 개발
   - **마이페이지**: 사용자 프로필 조회 및 업데이트 기능 구현
-
 
 ## 📫 Contact Me
 
