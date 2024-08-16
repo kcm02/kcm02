@@ -35,12 +35,16 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### **`Tools & Platforms`**
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+#### **`Deployment & Infrastructure`**
 ![Fly.io](https://img.shields.io/badge/Fly.io-0066ff?style=for-the-badge&logo=fly.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### **`Collaboration Tools`**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📂 Team Projects
 
@@ -57,6 +61,7 @@
   - **이미지 업로드**: `AWS EC2`를 활용한 이미지의 다중 업로드 기능 개발
   - **회원 기능**: 사용자 로그인, 회원가입 등의 회원 관련 기능 개발
   - **마이페이지**: 사용자 프로필 조회 및 업데이트 기능 구현
+- **협업 도구**: 프로젝트 진행 시 `Git`, `Confluence`, `ERDCloud`, `Discord`를 사용하여 원활한 소통과 협업을 이끌어냈습니다.
 
 ## 📂 Personal Projects
 
