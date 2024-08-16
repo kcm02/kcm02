@@ -90,5 +90,6 @@
 ## 📫 Contact Me
 
 - Email: chanmi125@naver.com
+- Velog: https://velog.io/@chanmi125
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
