@@ -77,6 +77,18 @@
   - OAuth2 소셜 로그인
   - 사용자 정보 수정 및 조회
 
+### 🐶 [Paws & Names](https://github.com/kcm02/Paws-Names)  
+[뉴욕시(NYC)의 데이터를 활용해 **반려동물 이름의 인기 랭킹**을 제공하고, **랜덤으로 이름을 추천**해주는 프로젝트입니다. 특히, SQLite 데이터베이스를 활용해 **간단하면서도 효율적인 이름 추천 서비스**를 구축하는 데 중점을 두었습니다.]  
+> _프로젝트의 동기, 기술적 도전, 과정에 대한 자세한 내용은 [[Paws & Names] 프로젝트 소개](https://velog.io/@chanmi125/Paws-and-Names-프로젝트-소개)에 기재해 두었습니다._
+
+- **기술 스택**: `Spring-Boot`, `SQLite`, `JPA`, `Fly.IO`, `Docker`
+- **기능**: 
+  - 반려동물 이름 인기 랭킹 조회
+  - 성별에 따른 필터링
+  - 랜덤 반려동물 이름 생성
+- **사이트 링크**: [https://paws-and-names.fly.dev/](https://paws-and-names.fly.dev/)
+
+
 ### 🏦 [Safe Account Checker](https://github.com/kcm02/safe-account-checker)
 [중고거래 시 자유적금 계좌를 판별하기 위한 프로젝트입니다. 이 프로젝트는 **금융감독원의 정보를 기반**으로 계좌 번호를 입력하면, **해당 계좌가 자유적금 계좌인지 판별**해주는 기능을 제공합니다.]
 
