@@ -62,10 +62,10 @@
 ## 📂 Personal Project
 
 ### 🐶 [Paws & Names](https://github.com/kcm02/Paws-Names)  
-[뉴욕시 데이터를 활용한 **반려동물 이름 추천 및 인기 랭킹** 제공 서비스입니다. SQLite 데이터베이스를 활용해 **간단하면서도 효율적인 이름 추천 서비스**를 구축하였습니다.]
+[뉴욕시 데이터를 활용한 **반려동물 이름 추천 및 인기 랭킹** 제공 서비스입니다. Python으로 데이터를 선처리하고, SQLite 데이터베이스를 활용해 **간단하면서도 효율적인 이름 추천 서비스**를 구축하였습니다.]
 > _프로젝트의 동기, 기술적 도전, 과정에 대한 자세한 내용은 [[Paws & Names] 프로젝트 소개](https://velog.io/@chanmi125/Paws-and-Names-프로젝트-소개)에 기재해 두었습니다._
 
-- **기술 스택**: `Spring-Boot`, `SQLite`, `JPA`, `Fly.IO`, `Docker`
+- **기술 스택**: `Spring-Boot`, `Python` `SQLite`, `JPA`, `Fly.IO`, `Docker`
 - **기능**: 
   - 반려동물 이름 인기 랭킹 조회
   - 성별에 따른 필터링
